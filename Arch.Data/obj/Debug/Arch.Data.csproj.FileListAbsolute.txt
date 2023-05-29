@@ -1,0 +1,102 @@
+D:\Egitim\ProjectMaskiPortal\Arch.Data\bin\Debug\Arch.Data.dll.config
+D:\Egitim\ProjectMaskiPortal\Arch.Data\bin\Debug\Arch.Data.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Data\bin\Debug\Arch.Data.pdb
+D:\Egitim\ProjectMaskiPortal\Arch.Data\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Data\bin\Debug\EntityFramework.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Data\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectMaskiPortal\Arch.Data\bin\Debug\EntityFramework.xml
+D:\Egitim\ProjectMaskiPortal\Arch.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Egitim\ProjectMaskiPortal\Arch.Data\obj\Debug\Arch.Data.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectMaskiPortal\Arch.Data\obj\Debug\Arch.Data.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Data\obj\Debug\Arch.Data.pdb
+D:\Egitim\ProjectPortal\Arch.Data\bin\Debug\Arch.Data.dll.config
+D:\Egitim\ProjectPortal\Arch.Data\bin\Debug\Arch.Data.dll
+D:\Egitim\ProjectPortal\Arch.Data\bin\Debug\Arch.Data.pdb
+D:\Egitim\ProjectPortal\Arch.Data\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectPortal\Arch.Data\bin\Debug\EntityFramework.dll
+D:\Egitim\ProjectPortal\Arch.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Egitim\ProjectPortal\Arch.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Egitim\ProjectPortal\Arch.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Egitim\ProjectPortal\Arch.Data\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectPortal\Arch.Data\bin\Debug\EntityFramework.xml
+D:\Egitim\ProjectPortal\Arch.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Egitim\ProjectPortal\Arch.Data\obj\Debug\Arch.Data.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectPortal\Arch.Data\obj\Debug\Arch.Data.dll
+D:\Egitim\ProjectPortal\Arch.Data\obj\Debug\Arch.Data.pdb
+D:\Egitim\ProjectWork\Arch.Data\obj\Debug\Arch.Data.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectWork\Arch.Data\obj\Debug\Arch.Data.dll
+D:\Egitim\ProjectWork\Arch.Data\obj\Debug\Arch.Data.pdb
+D:\Egitim\ProjectWork\Arch.Data\bin\Debug\Arch.Data.dll.config
+D:\Egitim\ProjectWork\Arch.Data\bin\Debug\Arch.Data.dll
+D:\Egitim\ProjectWork\Arch.Data\bin\Debug\Arch.Data.pdb
+D:\Egitim\ProjectWork\Arch.Data\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectWork\Arch.Data\bin\Debug\EntityFramework.dll
+D:\Egitim\ProjectWork\Arch.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Egitim\ProjectWork\Arch.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Egitim\ProjectWork\Arch.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Egitim\ProjectWork\Arch.Data\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectWork\Arch.Data\bin\Debug\EntityFramework.xml
+D:\Egitim\ProjectWork\Arch.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\bin\Debug\Arch.Data.dll.config
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\bin\Debug\Arch.Data.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\bin\Debug\Arch.Data.pdb
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\bin\Debug\Arch.Core.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\bin\Debug\EntityFramework.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\bin\Debug\Arch.Core.pdb
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\bin\Debug\EntityFramework.xml
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\obj\Debug\Arch.Data.csproj.AssemblyReference.cache
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\obj\Debug\Arch.Data.csproj.CoreCompileInputs.cache
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\obj\Debug\Arch.Data.csproj.CopyComplete
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\obj\Debug\Arch.Data.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Data\obj\Debug\Arch.Data.pdb
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\bin\Debug\Arch.Data.dll.config
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\bin\Debug\Arch.Data.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\bin\Debug\Arch.Data.pdb
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\bin\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\bin\Debug\EntityFramework.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\bin\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\bin\Debug\EntityFramework.xml
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\obj\Debug\Arch.Data.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\obj\Debug\Arch.Data.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\obj\Debug\Arch.Data.csproj.CopyComplete
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\obj\Debug\Arch.Data.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Data\obj\Debug\Arch.Data.pdb
+C:\Users\90531\Desktop\project\Arch.Data\bin\Debug\Arch.Data.dll.config
+C:\Users\90531\Desktop\project\Arch.Data\bin\Debug\Arch.Data.dll
+C:\Users\90531\Desktop\project\Arch.Data\bin\Debug\Arch.Data.pdb
+C:\Users\90531\Desktop\project\Arch.Data\bin\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\project\Arch.Data\bin\Debug\EntityFramework.dll
+C:\Users\90531\Desktop\project\Arch.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90531\Desktop\project\Arch.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\90531\Desktop\project\Arch.Data\bin\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\project\Arch.Data\bin\Debug\EntityFramework.xml
+C:\Users\90531\Desktop\project\Arch.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90531\Desktop\project\Arch.Data\obj\Debug\Arch.Data.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\project\Arch.Data\obj\Debug\Arch.Data.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\project\Arch.Data\obj\Debug\Arch.Data.csproj.CopyComplete
+C:\Users\90531\Desktop\project\Arch.Data\obj\Debug\Arch.Data.dll
+C:\Users\90531\Desktop\project\Arch.Data\obj\Debug\Arch.Data.pdb
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\bin\Debug\Arch.Data.dll.config
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\bin\Debug\Arch.Data.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\bin\Debug\Arch.Data.pdb
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\bin\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\bin\Debug\EntityFramework.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\bin\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\bin\Debug\EntityFramework.xml
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\obj\Debug\Arch.Data.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\obj\Debug\Arch.Data.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\obj\Debug\Arch.Data.csproj.CopyComplete
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\obj\Debug\Arch.Data.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Data\obj\Debug\Arch.Data.pdb
