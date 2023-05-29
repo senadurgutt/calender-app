@@ -1,0 +1,38 @@
+D:\Egitim\ProjectMaskiPortal\Arch.Core\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Core\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectMaskiPortal\Arch.Core\obj\Debug\Arch.Core.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectMaskiPortal\Arch.Core\obj\Debug\Arch.Core.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Core\obj\Debug\Arch.Core.pdb
+D:\Egitim\ProjectPortal\Arch.Core\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectPortal\Arch.Core\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectPortal\Arch.Core\obj\Debug\Arch.Core.dll
+D:\Egitim\ProjectPortal\Arch.Core\obj\Debug\Arch.Core.pdb
+D:\Egitim\ProjectPortal\Arch.Core\obj\Debug\Arch.Core.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectWork\Arch.Core\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectWork\Arch.Core\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectWork\Arch.Core\obj\Debug\Arch.Core.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectWork\Arch.Core\obj\Debug\Arch.Core.dll
+D:\Egitim\ProjectWork\Arch.Core\obj\Debug\Arch.Core.pdb
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Core\bin\Debug\Arch.Core.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Core\bin\Debug\Arch.Core.pdb
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Core\obj\Debug\Arch.Core.csproj.AssemblyReference.cache
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Core\obj\Debug\Arch.Core.csproj.CoreCompileInputs.cache
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Core\obj\Debug\Arch.Core.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Core\obj\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\Process-Reporting\Arch.Core\bin\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Core\bin\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\Process-Reporting\Arch.Core\obj\Debug\Arch.Core.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\Process-Reporting\Arch.Core\obj\Debug\Arch.Core.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\Process-Reporting\Arch.Core\obj\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Core\obj\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\project\Arch.Core\bin\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\project\Arch.Core\bin\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\project\Arch.Core\obj\Debug\Arch.Core.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\project\Arch.Core\obj\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\project\Arch.Core\obj\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\project\Arch.Core\obj\Debug\Arch.Core.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Core\bin\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Core\bin\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Core\obj\Debug\Arch.Core.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Core\obj\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Core\obj\Debug\Arch.Core.pdb
