@@ -1,0 +1,60 @@
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\bin\Debug\Arch.Dto.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\bin\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\bin\Debug\Newtonsoft.Json.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\obj\Debug\Arch.Dto.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\obj\Debug\Arch.Dto.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Dto\obj\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectPortal\Arch.Dto\bin\Debug\Arch.Dto.dll
+D:\Egitim\ProjectPortal\Arch.Dto\bin\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectPortal\Arch.Dto\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectPortal\Arch.Dto\bin\Debug\Newtonsoft.Json.dll
+D:\Egitim\ProjectPortal\Arch.Dto\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectPortal\Arch.Dto\obj\Debug\Arch.Dto.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectPortal\Arch.Dto\obj\Debug\Arch.Dto.dll
+D:\Egitim\ProjectPortal\Arch.Dto\obj\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.dll
+D:\Egitim\ProjectWork\Arch.Dto\obj\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectWork\Arch.Dto\bin\Debug\Arch.Dto.dll
+D:\Egitim\ProjectWork\Arch.Dto\bin\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectWork\Arch.Dto\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectWork\Arch.Dto\bin\Debug\Newtonsoft.Json.dll
+D:\Egitim\ProjectWork\Arch.Dto\bin\Debug\Arch.Core.pdb
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Dto\bin\Debug\Arch.Dto.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Dto\bin\Debug\Arch.Dto.pdb
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Dto\bin\Debug\Arch.Core.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Dto\bin\Debug\Arch.Core.pdb
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Dto\obj\Debug\Arch.Dto.csproj.AssemblyReference.cache
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Dto\obj\Debug\Arch.Dto.csproj.CoreCompileInputs.cache
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Dto\obj\Debug\Arch.Dto.csproj.CopyComplete
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Dto\obj\Debug\Arch.Dto.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Dto\obj\Debug\Arch.Dto.pdb
+C:\Users\90531\Desktop\Process-Reporting\Arch.Dto\bin\Debug\Arch.Dto.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Dto\bin\Debug\Arch.Dto.pdb
+C:\Users\90531\Desktop\Process-Reporting\Arch.Dto\bin\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Dto\bin\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\Process-Reporting\Arch.Dto\obj\Debug\Arch.Dto.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\Process-Reporting\Arch.Dto\obj\Debug\Arch.Dto.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\Process-Reporting\Arch.Dto\obj\Debug\Arch.Dto.csproj.CopyComplete
+C:\Users\90531\Desktop\Process-Reporting\Arch.Dto\obj\Debug\Arch.Dto.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Dto\obj\Debug\Arch.Dto.pdb
+C:\Users\90531\Desktop\project\Arch.Dto\bin\Debug\Arch.Dto.dll
+C:\Users\90531\Desktop\project\Arch.Dto\bin\Debug\Arch.Dto.pdb
+C:\Users\90531\Desktop\project\Arch.Dto\bin\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\project\Arch.Dto\bin\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\project\Arch.Dto\obj\Debug\Arch.Dto.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\project\Arch.Dto\obj\Debug\Arch.Dto.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\project\Arch.Dto\obj\Debug\Arch.Dto.csproj.CopyComplete
+C:\Users\90531\Desktop\project\Arch.Dto\obj\Debug\Arch.Dto.dll
+C:\Users\90531\Desktop\project\Arch.Dto\obj\Debug\Arch.Dto.pdb
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Dto\bin\Debug\Arch.Dto.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Dto\bin\Debug\Arch.Dto.pdb
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Dto\bin\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Dto\bin\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Dto\obj\Debug\Arch.Dto.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Dto\obj\Debug\Arch.Dto.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Dto\obj\Debug\Arch.Dto.csproj.CopyComplete
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Dto\obj\Debug\Arch.Dto.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Dto\obj\Debug\Arch.Dto.pdb
