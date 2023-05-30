@@ -1,0 +1,93 @@
+D:\Egitim\ProjectMaskiPortal\Arch.Utilities\bin\Debug\Arch.Utilities.dll.config
+D:\Egitim\ProjectMaskiPortal\Arch.Utilities\bin\Debug\Arch.Utilities.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Utilities\bin\Debug\Arch.Utilities.pdb
+D:\Egitim\ProjectMaskiPortal\Arch.Utilities\bin\Debug\Arch.Dto.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Utilities\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Utilities\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Utilities\bin\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectMaskiPortal\Arch.Utilities\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectMaskiPortal\Arch.Utilities\obj\Debug\Arch.Utilities.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectMaskiPortal\Arch.Utilities\obj\Debug\Arch.Utilities.dll
+D:\Egitim\ProjectMaskiPortal\Arch.Utilities\obj\Debug\Arch.Utilities.pdb
+D:\Egitim\ProjectPortal\Arch.Utilities\bin\Debug\Arch.Utilities.dll.config
+D:\Egitim\ProjectPortal\Arch.Utilities\bin\Debug\Arch.Utilities.dll
+D:\Egitim\ProjectPortal\Arch.Utilities\bin\Debug\Arch.Utilities.pdb
+D:\Egitim\ProjectPortal\Arch.Utilities\bin\Debug\Arch.Dto.dll
+D:\Egitim\ProjectPortal\Arch.Utilities\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Egitim\ProjectPortal\Arch.Utilities\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectPortal\Arch.Utilities\bin\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectPortal\Arch.Utilities\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectPortal\Arch.Utilities\obj\Debug\Arch.Utilities.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectPortal\Arch.Utilities\obj\Debug\Arch.Utilities.dll
+D:\Egitim\ProjectPortal\Arch.Utilities\obj\Debug\Arch.Utilities.pdb
+D:\Egitim\ProjectWork\Arch.Utilities\bin\Debug\Arch.Utilities.dll.config
+D:\Egitim\ProjectWork\Arch.Utilities\bin\Debug\Arch.Utilities.dll
+D:\Egitim\ProjectWork\Arch.Utilities\bin\Debug\Arch.Utilities.pdb
+D:\Egitim\ProjectWork\Arch.Utilities\bin\Debug\Arch.Dto.dll
+D:\Egitim\ProjectWork\Arch.Utilities\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Egitim\ProjectWork\Arch.Utilities\bin\Debug\Arch.Core.dll
+D:\Egitim\ProjectWork\Arch.Utilities\bin\Debug\Arch.Dto.pdb
+D:\Egitim\ProjectWork\Arch.Utilities\bin\Debug\Arch.Core.pdb
+D:\Egitim\ProjectWork\Arch.Utilities\obj\Debug\Arch.Utilities.csprojResolveAssemblyReference.cache
+D:\Egitim\ProjectWork\Arch.Utilities\obj\Debug\Arch.Utilities.dll
+D:\Egitim\ProjectWork\Arch.Utilities\obj\Debug\Arch.Utilities.pdb
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Utilities\bin\Debug\Arch.Utilities.dll.config
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Utilities\bin\Debug\Arch.Utilities.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Utilities\bin\Debug\Arch.Utilities.pdb
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Utilities\bin\Debug\Arch.Dto.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Utilities\bin\Debug\Arch.Core.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Utilities\bin\Debug\Arch.Dto.pdb
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Utilities\bin\Debug\Arch.Core.pdb
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.AssemblyReference.cache
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.CopyComplete
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Utilities\obj\Debug\Arch.Utilities.dll
+C:\Users\meren\OneDrive\Masaüstü\Yeni klasör\Arch.Utilities\obj\Debug\Arch.Utilities.pdb
+C:\Users\meren\OneDrive\Masaüstü\Process-Reporting-Project\Arch.Utilities\bin\Debug\Arch.Utilities.dll.config
+C:\Users\meren\OneDrive\Masaüstü\Process-Reporting-Project\Arch.Utilities\bin\Debug\Arch.Utilities.dll
+C:\Users\meren\OneDrive\Masaüstü\Process-Reporting-Project\Arch.Utilities\bin\Debug\Arch.Utilities.pdb
+C:\Users\meren\OneDrive\Masaüstü\Process-Reporting-Project\Arch.Utilities\bin\Debug\Arch.Dto.dll
+C:\Users\meren\OneDrive\Masaüstü\Process-Reporting-Project\Arch.Utilities\bin\Debug\Arch.Core.dll
+C:\Users\meren\OneDrive\Masaüstü\Process-Reporting-Project\Arch.Utilities\bin\Debug\Arch.Dto.pdb
+C:\Users\meren\OneDrive\Masaüstü\Process-Reporting-Project\Arch.Utilities\bin\Debug\Arch.Core.pdb
+C:\Users\meren\OneDrive\Masaüstü\Process-Reporting-Project\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.AssemblyReference.cache
+C:\Users\meren\OneDrive\Masaüstü\Process-Reporting-Project\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\meren\OneDrive\Masaüstü\Process-Reporting-Project\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.CopyComplete
+C:\Users\meren\OneDrive\Masaüstü\Process-Reporting-Project\Arch.Utilities\obj\Debug\Arch.Utilities.dll
+C:\Users\meren\OneDrive\Masaüstü\Process-Reporting-Project\Arch.Utilities\obj\Debug\Arch.Utilities.pdb
+C:\Users\90531\Desktop\Process-Reporting\Arch.Utilities\bin\Debug\Arch.Utilities.dll.config
+C:\Users\90531\Desktop\Process-Reporting\Arch.Utilities\bin\Debug\Arch.Utilities.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Utilities\bin\Debug\Arch.Utilities.pdb
+C:\Users\90531\Desktop\Process-Reporting\Arch.Utilities\bin\Debug\Arch.Dto.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Utilities\bin\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Utilities\bin\Debug\Arch.Dto.pdb
+C:\Users\90531\Desktop\Process-Reporting\Arch.Utilities\bin\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\Process-Reporting\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\Process-Reporting\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\Process-Reporting\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.CopyComplete
+C:\Users\90531\Desktop\Process-Reporting\Arch.Utilities\obj\Debug\Arch.Utilities.dll
+C:\Users\90531\Desktop\Process-Reporting\Arch.Utilities\obj\Debug\Arch.Utilities.pdb
+C:\Users\90531\Desktop\project\Arch.Utilities\bin\Debug\Arch.Utilities.dll.config
+C:\Users\90531\Desktop\project\Arch.Utilities\bin\Debug\Arch.Utilities.dll
+C:\Users\90531\Desktop\project\Arch.Utilities\bin\Debug\Arch.Utilities.pdb
+C:\Users\90531\Desktop\project\Arch.Utilities\bin\Debug\Arch.Dto.dll
+C:\Users\90531\Desktop\project\Arch.Utilities\bin\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\project\Arch.Utilities\bin\Debug\Arch.Dto.pdb
+C:\Users\90531\Desktop\project\Arch.Utilities\bin\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\project\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\project\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\project\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.CopyComplete
+C:\Users\90531\Desktop\project\Arch.Utilities\obj\Debug\Arch.Utilities.dll
+C:\Users\90531\Desktop\project\Arch.Utilities\obj\Debug\Arch.Utilities.pdb
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Utilities\bin\Debug\Arch.Utilities.dll.config
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Utilities\bin\Debug\Arch.Utilities.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Utilities\bin\Debug\Arch.Utilities.pdb
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Utilities\bin\Debug\Arch.Dto.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Utilities\bin\Debug\Arch.Core.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Utilities\bin\Debug\Arch.Dto.pdb
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Utilities\bin\Debug\Arch.Core.pdb
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Utilities\obj\Debug\Arch.Utilities.csproj.CopyComplete
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Utilities\obj\Debug\Arch.Utilities.dll
+C:\Users\90531\Desktop\SenaHomeWork\Arch.Utilities\obj\Debug\Arch.Utilities.pdb
